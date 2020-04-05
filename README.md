@@ -1,5 +1,5 @@
 # LeetCode 001
-My Submissions to LeetCode problems with tags for enhanced searchability. View at [https://nil1729.github.io/LEETCODE-001](https://nil1729.github.io/LEETCODE-001).
+My Submissions to LeetCode problems with tags for enhanced searchability. View [here](https://nil1729.github.io/LEETCODE-001).
 
 # Contribute
 ## Correct a solution
