@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Hi, I am Nilanjan Deb!
+title: Hi, I am Nilanjan Deb
 ---
 I am a Student pursuing Computer Science at [BITS Pilani, India](https://www.bits-pilani.ac.in). I love solving problems with C++. View my Leetcode Profile [here.](https://leetcode.com/nilanjan172nsvian/) 
 
