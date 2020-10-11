@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /categories/
-title: Categories
+title: Categories and Tags
 ---
-
 
 <div id="archives">
 {% for category in site.categories %}
